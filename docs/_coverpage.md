@@ -12,5 +12,5 @@
 - :heavy_check_mark: Node Deployment, Operation, Troubleshooting & Risk Mitigation
 
 
-[GitHub](https://github.com/Estebank97/Keep-Node-Docs/)
-[Get Started](basics/start.md)
+[GitHub](https://github.com/keepdocs/keepdocs.github.io/)
+[Get Started](https://keepdocs.github.io/)
