@@ -7,9 +7,9 @@
 > Community Curated Documentation
 
 - **[Our Site moved to its new addres: KeepDocs.github.io](https://keepdocs.github.io/)**
-- :heavy_check_mark: Overview, Rewards, Economics, Comparisons, Slashing & Liquidation
-- :heavy_check_mark: All The Keeps Guide for TBTC Deposits/Redemptions control
-- :heavy_check_mark: Node Deployment, Operation, Troubleshooting & Risk Mitigation
+- Overview, Rewards, Economics, Comparisons, Slashing & Liquidation
+- All The Keeps Guide for TBTC Deposits/Redemptions control
+- Node Deployment, Operation, Troubleshooting & Risk Mitigation
 
 
 [GitHub](https://github.com/keepdocs/keepdocs.github.io/)
