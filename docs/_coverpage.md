@@ -6,7 +6,7 @@
 > Keep Network
 > Community Curated Documentation
 
-- **Staking in Keep Network**
+- **[Our Site moved to its new addres: KeepDocs.github.io](https://keepdocs.github.io/)**
 - :heavy_check_mark: Overview, Rewards, Economics, Comparisons, Slashing & Liquidation
 - :heavy_check_mark: All The Keeps Guide for TBTC Deposits/Redemptions control
 - :heavy_check_mark: Node Deployment, Operation, Troubleshooting & Risk Mitigation
