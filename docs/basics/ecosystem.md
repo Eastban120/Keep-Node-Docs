@@ -65,3 +65,21 @@ This is a program held by a twitter KOL [Eric](https://twitter.com/ercwl/status/
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097701-b31bdb80-16ae-11eb-9998-00967daff42c.png">
 </p>
 
+## Potential Adoption
+- [Maker proposal of adding TBTC as collateral](https://forum.makerdao.com/t/tbtc-proposal-for-collateral-onboarding-tbtc/2328)
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/58348113/97590690-d4c3ec80-1a39-11eb-8d12-e10d05e21f4b.png">
+</p>
+
+- [AAVE proposal of adding TBTC](https://governance.aave.com/t/proposal-add-support-for-tbtc/575)
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/58348113/97590921-1359a700-1a3a-11eb-900d-53c1ca1e0687.png">
+</p>
+
+- [Yearn propsal of tbtc vault](https://gov.yearn.finance/t/request-for-yearn-community-support-for-tbtc-and-creation-of-tbtc-vault-decentralized-bitcoin/6374)
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/58348113/97591768-eb1e7800-1a3a-11eb-884d-b430c86db2f3.png">
+</p>
+
