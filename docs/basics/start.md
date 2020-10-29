@@ -2,6 +2,9 @@
 
 
 # Getting Started
+
+!>**[Our Site moved to its new Addres: KeepDocs.github.io](https://keepdocs.github.io/)**
+
 In this guide, you'll find all the information you need to stake on the Keep Network and start earning rewards.
 
 ## Basic Description - tl;dr
