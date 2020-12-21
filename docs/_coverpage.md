@@ -15,7 +15,7 @@
 - :pushpin: The library loads in the browser - so no local dependencies
 - :cloud: Serve locally and on GitHub Pages or Netlify
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/68087535/102814891-32294980-43aa-11eb-9bf8-35db618a94c0.png">
+  <img width="1500" src="https://user-images.githubusercontent.com/68087535/102814891-32294980-43aa-11eb-9bf8-35db618a94c0.png">
 </p>
 
 [Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
