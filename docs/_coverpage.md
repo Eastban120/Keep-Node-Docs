@@ -4,13 +4,10 @@
 </p>
 ![Keep_Brand_Web-portada](https://user-images.githubusercontent.com/68087535/102814891-32294980-43aa-11eb-9bf8-35db618a94c0.png)
 
-> Keep Network
-> Community Curated Documentation
+> TBTC //  Staking // Node Operation
 
 - **[Our Site moved to its new addres: KeepDocs.github.io](https://keepdocs.github.io/)**
-- Overview, Rewards, Economics, Comparisons, Slashing & Liquidation
-- All The Keeps Guide for TBTC Deposits/Redemptions control
-- Node Deployment, Operation, Troubleshooting & Risk Mitigation
+
 - TBTC   //   Staking   //   Node Operation
 
 
