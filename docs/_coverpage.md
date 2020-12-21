@@ -11,8 +11,12 @@
 - Overview, Rewards, Economics, Comparisons, Slashing & Liquidation
 - All The Keeps Guide for TBTC Deposits/Redemptions control
 - Node Deployment, Operation, Troubleshooting & Risk Mitigation
-- TBTC // Staking // Nodes // 
+- TBTC   //   Staking   //   Node Operation
 
 
 [GitHub](https://github.com/keepdocs/keepdocs.github.io/)
 [Get Started](https://keepdocs.github.io/)
+
+<!-- background color -->
+
+![color](#f0f0f0)
