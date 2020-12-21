@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
-<!--[a ver](assets/images/keepdocgraf.jpg)>
-<!-- [logo](https://miro.medium.com/max/1400/1*a1rZEF1awSz0wsKdL9SuGw.jpeg)-->
-<!-- [logok](https://user-images.githubusercontent.com/68087535/97370162-2713da80-188d-11eb-9a2a-4a48caac102b.png)-->
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/68087535/102814891-32294980-43aa-11eb-9bf8-35db618a94c0.png">
+</p>
 ![Keep_Brand_Web-portada](https://user-images.githubusercontent.com/68087535/102814891-32294980-43aa-11eb-9bf8-35db618a94c0.png)
 
 > Keep Network
