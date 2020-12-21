@@ -15,4 +15,4 @@
 [Get Started](#docsifyjs-template-homepage) <!-- TODO: Use ID of your homepage heading i.e. based on H1 of README.md - make sure this is DIFFERENT to the cover's heading -->
 
 
-![color](#181818)
+![Keep_Brand_Web-portada](https://user-images.githubusercontent.com/68087535/102814891-32294980-43aa-11eb-9bf8-35db618a94c0.png)
