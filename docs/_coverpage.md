@@ -1,17 +1,26 @@
-![color](#f0f0f0)
-
-
 ![Keep_Brand_Web-portada](assets/images/KeepDocsMain.png)
 
-> A minimal quickstart template for a docs site <!-- TODO: Replace with your description -->
+> Resources for Node Operators <!-- TODO: Replace with your description -->
 
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
 
-- :hourglass_flowing_sand: Quickly setup an elegant, responsive site
+Overview, Rewards, Economics, Community Tools, Slashing & Liquidation
+- All The Keeps Guide for TBTC Deposits/Redemptions control
+- Node Deployment, Operation, Troubleshooting & Risk Mitigation
 
 
-[Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
-[Get Started](#docsifyjs-template-homepage) <!-- TODO: Use ID of your homepage heading i.e. based on H1 of README.md - make sure this is DIFFERENT to the cover's heading -->
+[GitHub](https://github.com/KeepDocs/KeepDocs.github.io/)
+[Get Started](basics/start.md)
+
+[:uk:](https://estebank97.github.io/Keep-Node-Docs/#/)
+[:ru:](https://tony-sh.github.io/Keep-Node-Docs-Russia/#/)
+[:it:](https://tony-sh.github.io/Keep-Node-Docs-Italian/#/)
+[:de:](https://tony-sh.github.io/Keep-Node-Docs-German/#/)
+[:fr:](https://tony-sh.github.io/Keep-Node-Docs-French/#/)
+[:cn:](https://tony-sh.github.io/Keep-Node-Docs-Chinese/#/)
+[:indonesia:](https://tony-sh.github.io/Keep-Node-Docs-Indonesia/#/)
+[:tr:](https://tony-sh.github.io/Keep-Node-Docs-Turkish/#/)
+[:ukraine:](https://tony-sh.github.io/Keep-Node-Docs-Ukraine/#/)
 
 ![Back](assets/images/KeepDocsSide.jpg)
